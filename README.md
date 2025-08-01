@@ -1,4 +1,4 @@
-# desafio-alura-foroHub
+
 # ForoHub API
 
 API RESTful para la gestión de tópicos en un foro de discusión. Implementada con Java y Spring Boot, incluyendo autenticación con JWT, persistencia con Spring Data JPA y validaciones con Jakarta Bean Validation.
